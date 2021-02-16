@@ -2,10 +2,10 @@
   "RTL": false,
 
   "// 1": "UI -------------------------------------------------------",
-  "ACTOR": "演员",
-  "TRIGGER": "触发器",
-  "SCENE": "场景",
-  "PROJECT": "项目",
+  "ACTOR": "演員",
+  "TRIGGER": "感應器",
+  "SCENE": "場景",
+  "PROJECT": "項目",
 
   "// 2": "Navigator ------------------------------------------------",
   "NAV_GAME_WORLD": "主界面",
@@ -28,13 +28,13 @@
   "TOOLBAR_RUN": "运行",
 
   "// 4": "Tools ----------------------------------------------------",
-  "TOOL_SELECT_LABEL": "选择",
+  "TOOL_SELECT_LABEL": "選擇",
   "TOOL_ADD_LABEL": "添加",
   "TOOL_ADD_ACTOR_LABEL": "演员",
   "TOOL_ADD_TRIGGER_LABEL": "触发器",
   "TOOL_ADD_SCENE_LABEL": "场景",
   "TOOL_ERASER_LABEL": "橡皮擦",
-  "TOOL_COLLISIONS_LABEL": "碰撞块",
+  "TOOL_COLLISIONS_LABEL": "碰撞",
 
   "// 5": "Editors --------------------------------------------------",
   "SIDEBAR_NAVIGATION": "导航",
@@ -135,7 +135,7 @@
   "FIELD_SET_TO": "设置为",
 
   "// 7": "Asset Viewer ---------------------------------------------",
-  "ASSET_SEARCH": "搜索",
+  "ASSET_SEARCH": "搜尋",
   "ASSET_EDIT": "编辑",
   "ASSET_ADD": "添加",
 
